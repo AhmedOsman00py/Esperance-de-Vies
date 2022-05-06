@@ -1,0 +1,171 @@
+"code","nom","name","femme","homme"
+"AFG","Afghanistan","Afghanistan",66.388,63.382
+"ZAF","Afrique du Sud","South Africa",67.679,60.726
+"ALB","Albanie","Albania",80.201,77.002
+"DZA","Algérie","Algeria",78.133,75.676
+"DEU","Allemagne","Germany",83.4,78.6
+"AGO","Angola","Angola",64.039,58.416
+"SAU","Arabie Saoudite","Saudi Arabia",76.759,73.935
+"ARG","Argentine","Argentina",79.995,73.242
+"ARM","Arménie","Armenia",78.516,71.327
+"AUS","Australie","Australia",85,80.9
+"AUT","Autriche","Austria",84.2,79.5
+"AZE","Azerbaïdjan","Azerbaijan",75.455,70.511
+"BHR","Bahreïn","Bahrain",78.423,76.436
+"BGD","Bangladesh","Bangladesh",74.595,70.877
+"BLR","Belarus","Belarus",79.4,69.3
+"BEL","Belgique","Belgium",84,79.6
+"BEN","Bénin ","Benin",63.324,60.201
+"BTN","Bhoutan","Bhutan",72.176,71.405
+"BOL","Bolivie","Bolivia",74.508,68.684
+"BIH","Bosnie-Herzégovine","Bosnia and Herzegovina",79.857,74.893
+"BWA","Botswana","Botswana",72.386,66.485
+"BRA","Brésil","Brazil",79.555,72.243
+"BGR","Bulgarie","Bulgaria",78.5,71.5
+"BFA","Burkina Faso","Burkina Faso",62.294,60.739
+"BDI","Burundi","Burundi",63.377,59.764
+"KHM","Cambodge","Cambodia",71.909,67.538
+"CMR","Cameroun","Cameroon",60.561,58.029
+"CAN","Canada","Canada",84.2,80
+"CPV","Cap-Vert","Cape Verde",76.197,69.526
+"CAF","Centrafricaine (rep)","Central African Republic",55.514,51.081
+"CHL","Chili","Chile",82.442,77.771
+"CHN","Chine","China",79.244,74.761
+"CYP","Chypre","Cyprus",83.032,78.921
+"COL","Colombie","Colombia",80.019,74.528
+"COM","Comores(Les)","Comoros",66.121,62.587
+"COG","Congo","Republic of Congo",66.023,63.082
+"COD","Congo (rep. dem.)","Democratic Republic of the Congo",62.233,59.147
+"PRK","Corée du Nord","North Korea",75.744,68.615
+"KOR","Corée du Sud","South Korea",86.3,80.3
+"CRI","Costa Rica","Costa Rica",82.893,77.739
+"CIV","Côte d'Ivoire","Ivory Coast",59.119,56.593
+"HRV","Croatie","Croatia",81.6,75.4
+"CUB","Cuba","Cuba",80.779,76.84
+"DNK","Danemark","Denmark",83.2,79.3
+"DJI","Djibouti","Djibouti",69.357,65.116
+"DOM","Dominicaine (Rep)","Dominican Republic",77.381,70.991
+"EGY","Égypte","Egypt",74.35,69.742
+"ARE","Émirats arabes unis","United Arab Emirates",79.314,77.291
+"ECU","Équateur","Ecuador",79.838,74.282
+"ERI","Érythrée","Eritrea",68.555,64.153
+"ESP","Espagne","Spain",86.2,80.9
+"EST","Estonie","Estonia",82.8,74.4
+"SWZ","Eswatini","Eswatini",64.845,56.007
+"USA","États-Unis","USA",81.4,76.3
+"ETH","Éthiopie","Ethiopia",68.536,64.694
+"FIN","Finlande","Finland",84.5,79.2
+"FRA","France","France",85.6,79.7
+"GAB","Gabon","Gabon",68.669,64.382
+"GMB","Gambie","Gambia",63.481,60.656
+"GEO","Géorgie","Georgia",78.14,69.349
+"GHA","Ghana","Ghana",65.177,62.991
+"GRC","Grèce","Greece",84.5,79.5
+"GTM","Guatemala","Guatemala",77.151,71.382
+"GIN","Guinée","Guinea",62.117,60.855
+"GNQ","Guinée équatoriale","Equatorial Guinea",59.918,57.743
+"GNB","Guinée-Bissau","Guinea-Bissau",60.213,56.305
+"GUY","Guyana","Guyana",73.095,66.927
+"HTI","Haïti","Haiti",66.182,61.831
+"HND","Honduras","Honduras",77.551,72.96
+"HUN","Hongrie","Hungary",79.3,72.9
+"IND","Inde","India",70.95,68.464
+"IDN","Indonésie","Indonesia",73.967,69.572
+"IRQ","Irak","Iraq",72.652,68.565
+"IRN","Iran","Iran",77.885,75.593
+"IRL","Irlande","Ireland",84.3,80.4
+"ISL","Islande","Iceland",84.2,81
+"ISR","Israël","Israel",84.7,81
+"ITA","Italie","Italy",85.4,81.1
+"JAM","Jamaïque","Jamaica",76.118,72.868
+"JPN","Japon","Japan",87.45,81.41
+"JOR","Jordanie","Jordan",76.306,72.839
+"KAZ","Kazakhstan","Kazakhstan",77.3,68.82
+"KEN","Kenya","Kenya",69.049,64.313
+"KGZ","Kirghizstan","Kyrgyzstan",75.8,67.6
+"KWT","Koweït","Kuwait",76.58,74.76
+"LAO","Laos","Laos",69.746,66.142
+"LSO","Lesotho","Lesotho",57.58,51.201
+"LVA","Lettonie","Latvia",79.9,70.8
+"LBN","Liban","Lebanon",80.869,77.14
+"LBR","Liberia","Liberia",65.497,62.715
+"LBY","Libye","Libya",75.951,70.097
+"LTU","Lituanie","Lithuania",81,71.5
+"LUX","Luxembourg","Luxembourg",84.7,80.3
+"MKD","Macédoine du Nord","North Macedonia",77.846,73.794
+"MDG","Madagascar","Madagascar",68.682,65.417
+"MYS","Malaisie","Malaysia",78.317,74.234
+"MWI","Malawi","Malawi",67.413,61.101
+"MLI","Mali","Mali",60.085,58.529
+"MAR","Maroc","Morocco",77.895,75.423
+"MUS","Maurice","Mauritius",77.56,71.07
+"MRT","Mauritanie","Mauritania",66.515,63.305
+"MEX","Mexique","Mexico",77.879,72.203
+"MDA","Moldavie","Moldova",76.157,67.624
+"MNG","Mongolie","Mongolia",74.142,65.799
+"MOZ","Mozambique","Mozambique",63.671,57.782
+"MMR","Myanmar","Myanmar",70.119,64.046
+"NAM","Namibie","Namibia",66.516,60.685
+"NPL","Népal","Nepal",72.208,69.259
+"NIC","Nicaragua","Nicaragua",77.982,70.944
+"NER","Niger","Niger",63.621,61.281
+"NGA","Nigeria","Nigeria",55.619,53.789
+"NOR","Norvège","Norway",84.7,81.2
+"NZL","Nouvelle-Zélande","New Zealand",83.5,80
+"OMN","Oman","Oman",80.343,76.127
+"UGA","Ouganda","Uganda",65.622,61
+"UZB","Ouzbékistan","Uzbekistan",73.829,69.592
+"PAK","Pakistan","Pakistan",68.287,66.337
+"PAN","Panama","Panama",81.756,75.421
+"PNG","Papouasie-Nouvelle-G.","Papua New Guinea",65.82,63.271
+"PRY","Paraguay","Paraguay",76.396,72.263
+"NLD","Pays-Bas","Netherlands",83.6,80.5
+"PER","Pérou","Peru",79.507,74.06
+"PHL","Philippines","Philippines",75.505,67.263
+"POL","Pologne","Poland",81.8,74.1
+"PRT","Portugal","Portugal",83.5,78
+"QAT","Qatar","Qatar",82.01,79.142
+"GBR","Royaume-Uni","UK",83.1,79.4
+"RUS","Russie","Russia",78.17,68.24
+"RWA","Rwanda","Rwanda",71.132,66.821
+"SLV","Salvador","El Salvador",77.842,68.455
+"SEN","Sénégal","Senegal",69.918,65.757
+"SLE","Sierra Leone","Sierra Leone",55.495,53.853
+"SGP","Singapour","Singapore",85.7,81.4
+"SVK","Slovaquie","Slovakia",80.8,74.3
+"SVN","Slovénie","Slovenia",84.2,78.5
+"SOM","Somalie","Somalia",59.132,55.725
+"SDN","Soudan","Sudan",67.187,63.467
+"SSD","Soudan du Sud","South Sudan",59.383,56.351
+"LKA","Sri Lanka","Sri Lanka",80.261,73.596
+"SWE","Suède","Sweden",84.7,81.3
+"CHE","Suisse","Switzerland",85.6,81.9
+"SUR","Suriname","Suriname",75.063,68.468
+"SYR","Syrie","Syria",78.103,67.941
+"TJK","Tadjikistan","Tajikistan",73.389,68.935
+"TZA","Tanzanie","Tanzania",67.233,63.643
+"TCD","Tchad","Chad",55.669,52.835
+"CZE","Tchèque (Rép)","Czech Republic",82.1,76.3
+"THA","Thaïlande","Thailand",80.9,73.46
+"TGO","Togo","Togo",61.918,60.152
+"TTO","Trinité-et-Tobago","Trinidad and Tobago",76.224,70.874
+"TUN","Tunisie","Tunisia",78.721,74.688
+"TKM","Turkménistan","Turkmenistan",71.717,64.705
+"TUR","Turquie","Turkey",80.563,74.724
+"UKR","Ukraine","Ukraine",76.98,66.92
+"URY","Uruguay","Uruguay",81.478,74.119
+"VEN","Venezuela","Venezuela",76.004,68.327
+"VNM","Vietnam","Vietnam",79.523,71.301
+"YEM","Yémen","Yemen",67.826,64.443
+"ZMB","Zambie","Zambia",66.891,60.848
+"ZWE","Zimbabwe","Zimbabwe",62.899,59.798
+"ROU","Roumanie","Romania",79.3,71.8
+"GUF","Guyane Française","French Guiana",73.095,66.927
+"FRA","Nouvelle Calédonie","New Caledonia",80.4,75
+"BLZ","Belize","Belize",77.843,71.65
+"SRB","Serbie","Serbia",78.4,73.1
+"MNE","Monténégro","Montenegro",79.303,74.441
+"XXK","Kosovo","Kosovo",74.8,70.3
+"TWN","Taîwan","Taiwan",84.2,77.7
+"SWZ","Swaziland","Swaziland",64.85,56.01
+"PSE","Palestine","Palestine",77.6,72.416
