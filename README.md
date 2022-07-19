@@ -8,7 +8,7 @@ https://ahmedosman00py.github.io/Esperance-de-vie/
 ## Présentation du projet
 
 Il s'agit d'un projet de visualisation des données de l'éspérance de vie des hommes et des femmes dans 170 pays.
-Le but du projet est de visualisation l'espérance de vie en faisant plusieurs graphiques interactives sous R.
+Le but du projet est de visualiser l'espérance de vie en faisant plusieurs graphiques interactives sous R.
 
 ## Données
 
